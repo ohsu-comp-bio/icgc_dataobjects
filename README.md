@@ -13,7 +13,7 @@ DataObject Records
 
 A data object represents a resource associated with a project, individual, sample or other metadata entity.
 
-Data objects can belong to one or more [datasets](https://github.com/ga4gh/ga4gh-schemas/blob/master/src/main/proto/ga4gh/metadata.proto#L10)
+[Dataobjects](https://github.com/ga4gh/ga4gh-schemas/blob/data-objects/src/main/proto/ga4gh/data_objects.proto#L28) can belong to one or more [Datasets](https://github.com/ga4gh/ga4gh-schemas/blob/master/src/main/proto/ga4gh/metadata.proto#L10)
 
 
 Dataobject Use Cases
