@@ -1,7 +1,7 @@
 protobuf==3.2.0
 requests==2.7.0
 Flask==0.10.1
-Flask-Cors==2.0.1
+Flask-Cors==3.0.9
 urllib3==1.20
 pydash==3.4.8
 pytest-catchlog==1.2.2
